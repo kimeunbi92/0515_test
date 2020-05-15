@@ -9,7 +9,7 @@ route:
 receivers:
 - name: 'operations-team'
   slack_configs:
-  - api_url: https://hooks.slack.com/services/XXX
+  - api_url: https://hooks.slack.com/services/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
     channel: '#alert'
     send_resolved: true
 
